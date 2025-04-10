@@ -1,26 +1,4 @@
 {
   "notes": [
-    {
-      "id": "3",
-      "title": "sdfsdf",
-      "content": "sdfsdfs",
-      "priority": 2,
-      "createdAt": "2025-04-10T19:52:02.023317",
-      "modifiedAt": "2025-04-10T20:27:29.964848",
-      "color": "7986cb",
-      "isCompleted": 0,
-      "imagePath": "/data/user/0/com.example.app_02/app_flutter/1744291649042.jpg"
-    },
-    {
-      "id": 4,
-      "title": "hehe",
-      "content": "fsdfdsfsdfsdfsdf\n",
-      "priority": 1,
-      "createdAt": "2025-04-10T20:35:56.563997",
-      "modifiedAt": "2025-04-10T20:35:56.563997",
-      "color": "ffffff",
-      "isCompleted": 0,
-      "imagePath": null
-    }
   ]
 }
