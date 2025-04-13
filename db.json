@@ -1,13 +1,13 @@
 {
   "notes": [
   {
-    "id": 1,
-    "title": "Học Flutter theo RoadMap",
-    "content": "Đã Thêm Tính Năng Notes Account",
-    "priority": 2,
-    "createdAt": "2025-04-12T08:03:22.436644",
-    "modifiedAt": "2025-04-12T13:04:47.170657",
-    "color": "e57373",
+    "id": 2,
+    "title": "dfds",
+    "content": "dfd",
+    "priority": 1,
+    "createdAt": "2025-04-13T22:25:13.363",
+    "modifiedAt": "2025-04-13T22:25:13.363",
+    "color": "#0000FF",
     "isCompleted": 0,
     "imagePath": null
   }
