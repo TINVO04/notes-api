@@ -11,5 +11,25 @@
     "isCompleted": 0,
     "imagePath": null
   }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "username": "admin",
+      "password": "admin123",
+      "status": "active",
+      "lastLogin": "2025-04-10T06:44:00Z",
+      "createdAt": "2025-04-10T06:44:00Z"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "username": "vovantin",
+      "password": "Tin123456",
+      "status": "active",
+      "lastLogin": "2025-04-10T06:44:00Z",
+      "createdAt": "2025-04-10T06:44:00Z"
+    }
   ]
 }
