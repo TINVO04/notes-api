@@ -10,14 +10,14 @@
       "color": null,
       "isCompleted": false,
       "imagePaths": null,
-      "folderId": "default"
+      "folderId": "default-folder-1"
     }
   ],
   "folders": [
     {
       "id": "default-folder-1",
       "name": "Thư mục Ghi chú",
-      "noteIds": []
+      "noteIds": ["1"]
     },
     {
       "id": "unassigned-folder-1",
@@ -29,8 +29,8 @@
     {
       "id": 1,
       "userId": 1,
-      "username": "admin",
-      "password": "admin123",
+      "username": "SonTung04",
+      "password": "Tunghehe",
       "status": "active",
       "lastLogin": "2025-04-10T06:44:00Z",
       "createdAt": "2025-04-10T06:44:00Z"
@@ -39,7 +39,7 @@
       "id": 2,
       "userId": 2,
       "username": "vovantin",
-      "password": "Tin123456",
+      "password": "T1",
       "status": "active",
       "lastLogin": "2025-04-10T06:44:00Z",
       "createdAt": "2025-04-10T06:44:00Z"
