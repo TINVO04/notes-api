@@ -1,5 +1,17 @@
 {
   "notes": [
+    {
+      "id": "1",
+      "title": "Ghi chú mẫu",
+      "content": "Đây là nội dung ghi chú mẫu",
+      "priority": 1,
+      "createdAt": "2025-04-13T10:00:00Z",
+      "modifiedAt": "2025-04-13T10:00:00Z",
+      "color": null,
+      "isCompleted": false,
+      "imagePaths": null,
+      "folderId": "default"
+    }
   ],
   "folders": [
     {
