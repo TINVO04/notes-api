@@ -1,6 +1,13 @@
 {
   "notes": [
   ],
+  "folders": [
+    {
+      "id": "default",
+      "name": "Thư mục Ghi chú",
+      "noteIds": ["1"]
+    }
+  ],
   "accounts": [
     {
       "id": 1,
