@@ -15,9 +15,14 @@
   ],
   "folders": [
     {
-      "id": "default",
+      "id": "default-folder-1",
       "name": "Thư mục Ghi chú",
-      "noteIds": ["1"]
+      "noteIds": []
+    },
+    {
+      "id": "unassigned-folder-1",
+      "name": "Chưa phân loại",
+      "noteIds": []
     }
   ],
   "accounts": [
